@@ -1,6 +1,6 @@
 # PaperList
 
 ## Vocoder
-*Name* | *Paper Link* | *Value Function*
+*Date*  |  *Paper Link* | *Name* | *Author*  |
 :---: | :---: | :--- |
-**GAN** | [Arxiv](https://arxiv.org/abs/1406.2661) | <img src = 'assets/equations/GAN.png' height = '70px'>
+2019.10.25  |  [Arxiv](https://arxiv.org/abs/1910.1148)  | Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram |  Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim  | 
