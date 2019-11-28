@@ -15,3 +15,4 @@
 *Date*  |  *Link* | *Name* | *Author* |
 :--- | :--- | :--- | :--- |
 2019.11.26  |  [Arxiv](https://arxiv.org/abs/1911.11601)  | **Cross-lingual Multi-speaker Text-to-speech Synthesis for Voice Cloning without Using Parallel Corpus for Unseen Speakers** |  Zhaoyu Liu, Brian Mak  | 
+2019.07.09  |  [Arxiv](https://arxiv.org/abs/1907.04448)  | **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning** |  Yu Zhang, Ron J. Weiss, Heiga Zen, Yonghui Wu, Zhifeng Chen, RJ Skerry-Ryan, Ye Jia, Andrew Rosenberg, Bhuvana Ramabhadran  | 
