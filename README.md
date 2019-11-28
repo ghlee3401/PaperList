@@ -2,7 +2,7 @@
 
 
 ## TTS-GAN
-*Date*  |  *Link* | *Name* | *Author* |
+*Date*  |  *Link* |  *Name*  |  *Author*  |
 :---: | :---: | :--- | :--- |
 2019.08.06  |  [Arxiv](https://arxiv.org/abs/1908.01919)  | **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** |  Juheon Lee, Hyeong-Seok Choi, Chang-Bin Jeon, Junghyun Koo, Kyogu Lee  | 
 
