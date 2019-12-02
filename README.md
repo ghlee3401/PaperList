@@ -13,6 +13,8 @@
 2019.10.25  |  [Arxiv](https://arxiv.org/abs/1910.11480)  | **Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram** |  |
 2019.10.08  |  [Arxiv](https://arxiv.org/abs/1910.06711)  | **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis** |  |
 2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04472)  | **Probability density distillation with generative adversarial networks for high-quality parallel waveform generation** |  |
+2018.11.09  |  [Arxiv](https://arxiv.org/abs/1811.04769)  | **ExcitNet vocoder: A neural excitation model for parametric speech synthesis systems** |  |
+
 
 ## Bi-Lingual, Multi-Lingual, Cross-Lingual
 *Date*  |  *Link* |  *Name*  | *Blog* |
