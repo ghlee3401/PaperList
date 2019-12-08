@@ -29,7 +29,7 @@
 ### Disentangled Representation
 *Date*  |  *Link* |  *Name*  | *Blog* |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.02613)  | **Singing Voice Conversion with Disentangled Representations of Singer and Vocal Technique Using Variational Autoencoders** |  | 
-2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  |  **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation**  |   |
+2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  | **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation** |  | 
 
 
 
