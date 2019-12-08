@@ -26,6 +26,11 @@
 
 ## ETC
 
+### Vocoder
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.12.05  |  [Arxiv](https://arxiv.org/abs/1912.02461)  | **Towards Robust Neural Vocoding for Speech Generation: A Survey** |  | 
+
 ### Disentangled Reepresentations
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
