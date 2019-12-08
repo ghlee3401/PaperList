@@ -1,12 +1,5 @@
 # PaperList
 
-
-## TTS-GAN
-*Date*  |  *Link* |  *Name*  | *Blog* |
-:--- | :--- | :--- | :--- |
-2019.08.06  |  [Arxiv](https://arxiv.org/abs/1908.01919)  | **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** |  |
-
-
 ## Vocoder
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
@@ -14,6 +7,14 @@
 2019.10.08  |  [Arxiv](https://arxiv.org/abs/1910.06711)  | **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis** |  |
 2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04472)  | **Probability density distillation with generative adversarial networks for high-quality parallel waveform generation** |  |
 2018.11.09  |  [Arxiv](https://arxiv.org/abs/1811.04769)  | **ExcitNet vocoder: A neural excitation model for parametric speech synthesis systems** |  |
+
+## TTS-GAN
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.08.06  |  [Arxiv](https://arxiv.org/abs/1908.01919)  | **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** |  |
+
+## Personalized TTS (P-TTS)
+
 
 
 ## Bi-Lingual, Multi-Lingual, Cross-Lingual
@@ -23,13 +24,13 @@
 2019.07.09  |  [Arxiv](https://arxiv.org/abs/1907.04448)  | **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning** |  |
 
 
-
 ## ETC
 
 ### Vocoder
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.12.05  |  [Arxiv](https://arxiv.org/abs/1912.02461)  | **Towards Robust Neural Vocoding for Speech Generation: A Survey** |  | 
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01219)  | **WaveFlow: A Compact Flow-based Model for Raw Audio** |  | 
 
 ### Disentangled Reepresentations
 *Date*  |  *Link* |  *Name*  | *Blog* |
@@ -37,6 +38,8 @@
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.02613)  | **Singing Voice Conversion with Disentangled Representations of Singer and Vocal Technique Using Variational Autoencoders** |  | 
 2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  | **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation** |  | 
 
-
-
+### High-Fidelity or Quality Speech Synthesis Method
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01167)  | **High-quality Speech Synthesis Using Super-resolution Mel-Spectrogram** |  | 
 
