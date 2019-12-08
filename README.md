@@ -21,3 +21,16 @@
 :--- | :--- | :--- | :--- |
 2019.11.26  |  [Arxiv](https://arxiv.org/abs/1911.11601)  | **Cross-lingual Multi-speaker Text-to-speech Synthesis for Voice Cloning without Using Parallel Corpus for Unseen Speakers** | [Link](https://whisohdeep.blogspot.com/2019/11/blog-post.html) | 
 2019.07.09  |  [Arxiv](https://arxiv.org/abs/1907.04448)  | **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning** |  |
+
+
+
+## ETC
+
+### Disentangled Representation
+*Date*  |  *Link* |  *Name*  | *Blog* |
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.02613)  | **Singing Voice Conversion with Disentangled Representations of Singer and Vocal Technique Using Variational Autoencoders** |  | 
+2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  |  **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation**  |   |
+
+
+
+
