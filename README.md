@@ -14,7 +14,9 @@
 2019.08.06  |  [Arxiv](https://arxiv.org/abs/1908.01919)  | **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** |  |
 
 ## Personalized TTS (P-TTS)
-
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.11.28  |  [Arxiv](https://arxiv.org/abs/1911.12760)  | **Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech** |  |
 
 
 ## Bi-Lingual, Multi-Lingual, Cross-Lingual
