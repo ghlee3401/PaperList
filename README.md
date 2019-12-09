@@ -45,3 +45,7 @@
 :--- | :--- | :--- | :--- |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01167)  | **High-quality Speech Synthesis Using Super-resolution Mel-Spectrogram** |  | 
 
+### Normalizing Flow
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.01.30  |  [Arxiv](https://arxiv.org/abs/1901.11137)  | **Emerging Convolutions for Generative Normalizing Flows** |  | 
