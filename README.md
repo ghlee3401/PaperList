@@ -28,11 +28,12 @@
 
 ## ETC
 
-### Vocoder
+
+
+### Bi-Lingual, Multi-Lingual, Cross-Lingual
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
-2019.12.05  |  [Arxiv](https://arxiv.org/abs/1912.02461)  | **Towards Robust Neural Vocoding for Speech Generation: A Survey** |  | 
-2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01219)  | **WaveFlow: A Compact Flow-based Model for Raw Audio** |  | 
+2018.12.04  |  [Arxiv](https://arxiv.org/abs/1812.015013)  | **Domain Attentive Fusion for End-to-end Dialect Identification with Unknown Target Domain** |  |   
 
 ### Disentangled Reepresentations
 *Date*  |  *Link* |  *Name*  | *Blog* |
@@ -44,6 +45,12 @@
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01167)  | **High-quality Speech Synthesis Using Super-resolution Mel-Spectrogram** |  | 
+
+### Vocoder
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.12.05  |  [Arxiv](https://arxiv.org/abs/1912.02461)  | **Towards Robust Neural Vocoding for Speech Generation: A Survey** |  | 
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01219)  | **WaveFlow: A Compact Flow-based Model for Raw Audio** |  | 
 
 ### Normalizing Flow
 *Date*  |  *Link* |  *Name*  | *Blog* |
