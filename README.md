@@ -56,3 +56,9 @@
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.01.30  |  [Arxiv](https://arxiv.org/abs/1901.11137)  | **Emerging Convolutions for Generative Normalizing Flows** |  | 
+
+
+### GAN
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+
