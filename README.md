@@ -7,6 +7,7 @@
 2019.10.08  |  [Arxiv](https://arxiv.org/abs/1910.06711)  | **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis** |  |
 2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04472)  | **Probability density distillation with generative adversarial networks for high-quality parallel waveform generation** |  |
 2018.11.09  |  [Arxiv](https://arxiv.org/abs/1811.04769)  | **ExcitNet vocoder: A neural excitation model for parametric speech synthesis systems** |  |
+2019.10.31  |  [Arxiv](https://arxiv.org/abs/1811.00002)  |  **WaveGlow: A Flow-based Generative Network for Speech Synthesis**  |    |
 
 ## TTS-GAN
 *Date*  |  *Link* |  *Name*  | *Blog* |
@@ -61,4 +62,5 @@
 ### GAN
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04775)  |  **A New GAN-based End-to-End TTS Training Algorithm**  |  |
 
