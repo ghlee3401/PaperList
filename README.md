@@ -41,6 +41,7 @@
 :--- | :--- | :--- | :--- |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.02613)  | **Singing Voice Conversion with Disentangled Representations of Singer and Vocal Technique Using Variational Autoencoders** |  | 
 2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  | **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation** |  | 
+2019.04.04  |  [Arxiv](https://arxiv.org/abs/1904.02373)  | **Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis** |  | 
 
 ### High-Fidelity or Quality Speech Synthesis Method
 *Date*  |  *Link* |  *Name*  | *Blog* |
