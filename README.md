@@ -59,9 +59,12 @@
 :--- | :--- | :--- | :--- |
 2019.01.30  |  [Arxiv](https://arxiv.org/abs/1901.11137)  | **Emerging Convolutions for Generative Normalizing Flows** |  | 
 
-
 ### GAN
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04775)  |  **A New GAN-based End-to-End TTS Training Algorithm**  |  |
 
+### Optimization
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2019.11.01  |  [Arxiv](https://arxiv.org/abs/1911.00289)  |  **Does Adam optimizer keep close to the optimal point?**  |  |
