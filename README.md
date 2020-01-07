@@ -64,6 +64,7 @@
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04775)  |  **A New GAN-based End-to-End TTS Training Algorithm**  |  |
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.04958)  |  **Analyzing and Improving the Image Quality of StyleGAN**  |  |
 
 ### Optimization
 *Date*  |  *Link* |  *Name*  | *Blog* |
