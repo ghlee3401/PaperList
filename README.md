@@ -1,6 +1,6 @@
 # PaperList
 
-## Vocoder
+### Vocoder
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.10.25  |  [Arxiv](https://arxiv.org/abs/1910.11480)  | **Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram** |  |
@@ -9,18 +9,18 @@
 2018.11.09  |  [Arxiv](https://arxiv.org/abs/1811.04769)  | **ExcitNet vocoder: A neural excitation model for parametric speech synthesis systems** |  |
 2019.10.31  |  [Arxiv](https://arxiv.org/abs/1811.00002)  |  **WaveGlow: A Flow-based Generative Network for Speech Synthesis**  |    |
 
-## TTS-GAN
+### TTS-GAN
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.08.06  |  [Arxiv](https://arxiv.org/abs/1908.01919)  | **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** |  |
 
-## Personalized TTS (P-TTS)
+### Personalized TTS (P-TTS)
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.11.28  |  [Arxiv](https://arxiv.org/abs/1911.12760)  | **Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech** |  |
 
 
-## Bi-Lingual, Multi-Lingual, Cross-Lingual
+### Bi-Lingual, Multi-Lingual, Cross-Lingual
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.11.26  |  [Arxiv](https://arxiv.org/abs/1911.11601)  | **Cross-lingual Multi-speaker Text-to-speech Synthesis for Voice Cloning without Using Parallel Corpus for Unseen Speakers** | [Link](https://whisohdeep.blogspot.com/2019/11/blog-post.html) | 
