@@ -1,5 +1,11 @@
 # PaperList
 
+### TTS
+*Date*  |  *Link* |  *Name*  | *Blog* |
+:--- | :--- | :--- | :--- |
+2020.03.05  |  [Arxiv](https://arxiv.org/abs/2003.01950)  | **AlignTTS: Efficient Feed-Forward Text-to-Speech System without Explicit Alignment** |  |
+
+
 ### Vocoder
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
