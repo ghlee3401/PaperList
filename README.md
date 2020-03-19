@@ -3,6 +3,7 @@
 ### TTS
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2019.05.22  |  [Arxiv](https://arxiv.org/abs/1905.09263)  | **FastSpeech: Fast, Robust and Controllable Text to Speech** |  |
 2020.03.05  |  [Arxiv](https://arxiv.org/abs/2003.01950)  | **AlignTTS: Efficient Feed-Forward Text-to-Speech System without Explicit Alignment** |  |
 
 
