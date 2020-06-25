@@ -45,16 +45,18 @@
 :--- | :--- | :--- | :--- |
 2018.12.04  |  [Arxiv](https://arxiv.org/abs/1812.015013)  | **Domain Attentive Fusion for End-to-end Dialect Identification with Unknown Target Domain** |  |   
 
-### Disentangled Reepresentations
+### Reepresentations
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2020.06.25  |  [Arxiv](https://arxiv.org/abs/2006.11477)  |  **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**  |  |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.02613)  | **Singing Voice Conversion with Disentangled Representations of Singer and Vocal Technique Using Variational Autoencoders** |  | 
 2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  | **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation** |  | 
 2019.04.04  |  [Arxiv](https://arxiv.org/abs/1904.02373)  | **Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis** |  | 
 
-### High-Fidelity or Quality Speech Synthesis Method
+### Enhancement (+ Super Resolution)
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2020.06.25  |  [Arxiv](https://arxiv.org/abs/2006.12847)  | **Real Time Speech Enhancement in the Waveform Domain** |  |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01167)  | **High-quality Speech Synthesis Using Super-resolution Mel-Spectrogram** |  | 
 
 ### Vocoder
