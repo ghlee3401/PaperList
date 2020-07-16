@@ -9,11 +9,13 @@
 ### Vocoder
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2019.12.05  |  [Arxiv](https://arxiv.org/abs/1912.02461)  | **Towards Robust Neural Vocoding for Speech Generation: A Survey** |  | 
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01219)  | **WaveFlow: A Compact Flow-based Model for Raw Audio** |  | 
+2019.10.31  |  [Arxiv](https://arxiv.org/abs/1811.00002)  |  **WaveGlow: A Flow-based Generative Network for Speech Synthesis**  |    |
 2019.10.25  |  [Arxiv](https://arxiv.org/abs/1910.11480)  | **Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram** |  |
 2019.10.08  |  [Arxiv](https://arxiv.org/abs/1910.06711)  | **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis** |  |
 2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04472)  | **Probability density distillation with generative adversarial networks for high-quality parallel waveform generation** |  |
 2018.11.09  |  [Arxiv](https://arxiv.org/abs/1811.04769)  | **ExcitNet vocoder: A neural excitation model for parametric speech synthesis systems** |  |
-2019.10.31  |  [Arxiv](https://arxiv.org/abs/1811.00002)  |  **WaveGlow: A Flow-based Generative Network for Speech Synthesis**  |    |
 
 ### GAN
 *Date*  |  *Link* |  *Name*  | *Blog* |
@@ -46,12 +48,6 @@
 :--- | :--- | :--- | :--- |
 2020.06.25  |  [Arxiv](https://arxiv.org/abs/2006.12847)  | **Real Time Speech Enhancement in the Waveform Domain** |  |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01167)  | **High-quality Speech Synthesis Using Super-resolution Mel-Spectrogram** |  | 
-
-### Vocoder
-*Date*  |  *Link* |  *Name*  | *Blog* |
-:--- | :--- | :--- | :--- |
-2019.12.05  |  [Arxiv](https://arxiv.org/abs/1912.02461)  | **Towards Robust Neural Vocoding for Speech Generation: A Survey** |  | 
-2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.01219)  | **WaveFlow: A Compact Flow-based Model for Raw Audio** |  | 
 
 ### Normalizing Flow
 *Date*  |  *Link* |  *Name*  | *Blog* |
