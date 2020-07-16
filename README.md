@@ -30,21 +30,11 @@
 ### Bi-Lingual, Multi-Lingual, Cross-Lingual
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2020.06.26  |  [Arxiv](https://arxiv.org/abs/2006.14007)  | **Multilingual Jointly Trained Acoustic and Written Word Embeddings** |  |
+2020.06.26  |  [Arxiv](https://arxiv.org/abs/2006.13979)  | **Unsupervised Cross-lingual Representation Learning for Speech Recognition** |  |
 2020.01.29  |  [Arxiv](https://arxiv.org/abs/2001.11128)  |  **Learning Robust and Multilingual Speech Representations**  |    |
 2019.11.26  |  [Arxiv](https://arxiv.org/abs/1911.11601)  | **Cross-lingual Multi-speaker Text-to-speech Synthesis for Voice Cloning without Using Parallel Corpus for Unseen Speakers** | [Link](https://whisohdeep.blogspot.com/2019/11/blog-post.html) | 
 2019.07.09  |  [Arxiv](https://arxiv.org/abs/1907.04448)  | **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning** |  |
-2020.06.26  |  [Arxiv](https://arxiv.org/abs/2006.14007)  | **Multilingual Jointly Trained Acoustic and Written Word Embeddings** |  |
-2020.06.26  |  [Arxiv](https://arxiv.org/abs/2006.13979)  | **Unsupervised Cross-lingual Representation Learning for Speech Recognition** |  |
-
----
-
-## ETC
-
-
-
-### Bi-Lingual, Multi-Lingual, Cross-Lingual
-*Date*  |  *Link* |  *Name*  | *Blog* |
-:--- | :--- | :--- | :--- |
 2018.12.04  |  [Arxiv](https://arxiv.org/abs/1812.015013)  | **Domain Attentive Fusion for End-to-end Dialect Identification with Unknown Target Domain** |  |   
 
 ### Reepresentations
