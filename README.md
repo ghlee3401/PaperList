@@ -6,7 +6,6 @@
 2019.05.22  |  [Arxiv](https://arxiv.org/abs/1905.09263)  | **FastSpeech: Fast, Robust and Controllable Text to Speech** |  |
 2020.03.05  |  [Arxiv](https://arxiv.org/abs/2003.01950)  | **AlignTTS: Efficient Feed-Forward Text-to-Speech System without Explicit Alignment** |  |
 
-
 ### Vocoder
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
@@ -16,16 +15,12 @@
 2018.11.09  |  [Arxiv](https://arxiv.org/abs/1811.04769)  | **ExcitNet vocoder: A neural excitation model for parametric speech synthesis systems** |  |
 2019.10.31  |  [Arxiv](https://arxiv.org/abs/1811.00002)  |  **WaveGlow: A Flow-based Generative Network for Speech Synthesis**  |    |
 
-### TTS-GAN
+### GAN
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.04958)  |  **Analyzing and Improving the Image Quality of StyleGAN**  |  |
 2019.08.06  |  [Arxiv](https://arxiv.org/abs/1908.01919)  | **Adversarially Trained End-to-end Korean Singing Voice Synthesis System** |  |
-
-### Personalized TTS (P-TTS)
-*Date*  |  *Link* |  *Name*  | *Blog* |
-:--- | :--- | :--- | :--- |
-2019.11.28  |  [Arxiv](https://arxiv.org/abs/1911.12760)  | **Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech** |  |
-
+2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04775)  |  **A New GAN-based End-to-End TTS Training Algorithm**  |  |
 
 ### Bi-Lingual, Multi-Lingual, Cross-Lingual
 *Date*  |  *Link* |  *Name*  | *Blog* |
@@ -42,6 +37,7 @@
 :--- | :--- | :--- | :--- |
 2020.06.25  |  [Arxiv](https://arxiv.org/abs/2006.11477)  |  **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**  |  |
 2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.02613)  | **Singing Voice Conversion with Disentangled Representations of Singer and Vocal Technique Using Variational Autoencoders** |  | 
+2019.11.28  |  [Arxiv](https://arxiv.org/abs/1911.12760)  | **Using VAEs and Normalizing Flows for One-shot Text-To-Speech Synthesis of Expressive Speech** |  |
 2019.11.27  |  [Arxiv](https://arxiv.org/abs/1912.02608)  | **Powerful Speaker Embedding Training Framework by Adversarially Disentangled Identity Representation** |  | 
 2019.04.04  |  [Arxiv](https://arxiv.org/abs/1904.02373)  | **Multi-reference Tacotron by Intercross Training for Style Disentangling,Transfer and Control in Speech Synthesis** |  | 
 
@@ -61,12 +57,6 @@
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
 2019.01.30  |  [Arxiv](https://arxiv.org/abs/1901.11137)  | **Emerging Convolutions for Generative Normalizing Flows** |  | 
-
-### GAN
-*Date*  |  *Link* |  *Name*  | *Blog* |
-:--- | :--- | :--- | :--- |
-2019.04.09  |  [Arxiv](https://arxiv.org/abs/1904.04775)  |  **A New GAN-based End-to-End TTS Training Algorithm**  |  |
-2019.12.03  |  [Arxiv](https://arxiv.org/abs/1912.04958)  |  **Analyzing and Improving the Image Quality of StyleGAN**  |  |
 
 ### Optimization
 *Date*  |  *Link* |  *Name*  | *Blog* |
