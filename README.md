@@ -3,6 +3,8 @@
 ### TTS
 *Date*  |  *Link* |  *Name*  | *Blog* |
 :--- | :--- | :--- | :--- |
+2020.01.11  |  [Arxiv](https://arxiv.org/abs/2006.06873)  |  **FastPitch: Parallel Text-to-speech with Pitch Prediction**  |  |
+2020.01.08  |  [Arxiv](https://arxiv.org/abs/2006.04558)  |  **FastSpeech 2: Fast and High-Quality End-to-End Text to Speech**  |  |
 2019.05.22  |  [Arxiv](https://arxiv.org/abs/1905.09263)  | **FastSpeech: Fast, Robust and Controllable Text to Speech** |  |
 2020.03.05  |  [Arxiv](https://arxiv.org/abs/2003.01950)  | **AlignTTS: Efficient Feed-Forward Text-to-Speech System without Explicit Alignment** |  |
 
