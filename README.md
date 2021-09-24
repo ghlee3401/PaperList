@@ -66,4 +66,3 @@ Jamming Prediction for Radar Signals Using Machine Learning Methods https://www.
 2019.11.01  |  [Arxiv](https://arxiv.org/abs/1911.00289)  |  **Does Adam optimizer keep close to the optimal point?**  |  |
 
 
-[Paper List c2339a2a398c48459a704852a23a339f.csv](https://github.com/laray5959/PaperList/files/7224826/Paper.List.c2339a2a398c48459a704852a23a339f.csv)
